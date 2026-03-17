@@ -2,6 +2,19 @@
 
 Validates that all required CLIs are installed and authenticated. Compatible with Windows, Linux, and macOS.
 
+## Getting Started
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/alejmendez/cli-doctor.git
+cd cli-doctor
+
+# 2. Run the doctor
+python cli-doctor.py
+```
+
+> No installation or virtual environment needed — the script has no external dependencies.
+
 ## Usage
 
 ```bash
